@@ -16,6 +16,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -26,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1SutWFDT4OhATo4MZdhXcI2xCcn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="E:/AndroidSDK" />
@@ -160,11 +164,22 @@
       <workItem from="1574331459852" duration="1998000" />
       <workItem from="1574336049689" duration="463000" />
       <workItem from="1574341038366" duration="10534000" />
-      <workItem from="1574404504728" duration="3924000" />
+      <workItem from="1574404504728" duration="4423000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
