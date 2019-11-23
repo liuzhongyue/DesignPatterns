@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33241289-50ee-4f8c-b8af-a4cffc40e258" name="Default Changelist" comment="" />
+    <list default="true" id="33241289-50ee-4f8c-b8af-a4cffc40e258" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/liuergo/factory/veritable/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/liuergo/factory/veritable/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/liuergo/factory/veritable/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/liuergo/factory/veritable/PizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/liuergo/factory/veritable/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/liuergo/factory/veritable/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/liuergo/factory/veritable/pizza/BeijingBaconPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/liuergo/factory/veritable/pizza/BeijingBaconPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/liuergo/factory/veritable/pizza/BeijingCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/liuergo/factory/veritable/pizza/BeijingCheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/liuergo/factory/veritable/pizza/ShanghaiBaconPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/liuergo/factory/veritable/pizza/ShanghaiBaconPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/liuergo/factory/veritable/pizza/ShanghaiCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/liuergo/factory/veritable/pizza/ShanghaiCheesePizza.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +173,7 @@
       <workItem from="1574331459852" duration="1998000" />
       <workItem from="1574336049689" duration="463000" />
       <workItem from="1574341038366" duration="10534000" />
-      <workItem from="1574404504728" duration="4423000" />
+      <workItem from="1574404504728" duration="8143000" />
     </task>
     <servers />
   </component>

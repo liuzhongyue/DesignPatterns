@@ -15,10 +15,10 @@ public abstract class PizzaStore {
      * @return
      */
     public abstract Pizza createPizza(String type);
-
     public Pizza oderPizza(String type) {
         Pizza pizza;
         pizza = createPizza(type);
+        pizza.prepare();
         pizza.bake();
         pizza.cut();
         return pizza;

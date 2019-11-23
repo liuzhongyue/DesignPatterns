@@ -12,8 +12,8 @@ import top.liuergo.factory.veritable.store.ShanghaiPizzaStore;
 public class Tester {
     public static void main(String[] args) {
         BeijingPizzaStore beijingPizzaStore = new BeijingPizzaStore();
-        beijingPizzaStore.createPizza("cheese");
+        beijingPizzaStore.oderPizza("cheese");
         ShanghaiPizzaStore shanghaiPizzaStore = new ShanghaiPizzaStore();
-        shanghaiPizzaStore.createPizza("bacon");
+        shanghaiPizzaStore.oderPizza("bacon");
     }
 }

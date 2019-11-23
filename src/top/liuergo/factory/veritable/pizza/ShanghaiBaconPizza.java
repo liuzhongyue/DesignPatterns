@@ -10,7 +10,7 @@ import top.liuergo.factory.veritable.PizzaIngredientFactory;
  */
 
 public class ShanghaiBaconPizza extends Pizza {
-    PizzaIngredientFactory ingredientFactory;
+    private PizzaIngredientFactory ingredientFactory;
     public ShanghaiBaconPizza(PizzaIngredientFactory ingredientFactory) {
         System.out.println("做一个上海BaconPizza");
         this.ingredientFactory = ingredientFactory;
@@ -18,15 +18,8 @@ public class ShanghaiBaconPizza extends Pizza {
 
     @Override
     public void prepare() {
-
-    }
-
-    @Override
-    public void bake() {
-    }
-
-    @Override
-    public void cut() {
-
+        ingredientFactory.createSauce();
+        ingredientFactory.createDough();
+        ingredientFactory.createCheese();
     }
 }

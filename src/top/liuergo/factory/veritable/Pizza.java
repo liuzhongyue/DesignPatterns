@@ -14,7 +14,6 @@ public abstract class Pizza {
     Sauce sauce;
     Cheese cheese;
     Dough dough;
-
     /**
      * 将准备方法修改为抽象方法，子类必须重写该方法
      */
