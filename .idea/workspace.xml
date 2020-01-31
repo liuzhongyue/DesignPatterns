@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33241289-50ee-4f8c-b8af-a4cffc40e258" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="33241289-50ee-4f8c-b8af-a4cffc40e258" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/top/liuergo/adapter/SDAdapterTF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/liuergo/adapter/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/liuergo/adapter/computer/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/liuergo/adapter/computer/MacBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/liuergo/adapter/sd/SDCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/liuergo/adapter/sd/SDCardImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/liuergo/adapter/tf/TFCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/liuergo/adapter/tf/TFCardImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternsDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatternsDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsDemo/META-INF/DesignPatternsDemo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/Pizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/PizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/PizzaStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/Tester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/pizza/BeijingBaconPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/pizza/BeijingBaconPizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/pizza/BeijingCheesePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/pizza/BeijingCheesePizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/pizza/ShanghaiBaconPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/pizza/ShanghaiBaconPizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/pizza/ShanghaiCheesePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/pizza/ShanghaiCheesePizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/store/BeijingPizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/store/BeijingPizzaStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/store/ShanghaiPizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/store/ShanghaiPizzaStore.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,11 +50,16 @@
   </component>
   <component name="ProjectId" id="1SutWFDT4OhATo4MZdhXcI2xCcn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="E:/AndroidSDK" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/top/liuergo/factory/abstract" />
+    <property name="last_opened_file_path" value="E:/Desktop/mysql-connector-java-8.0.17.jar!/" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,12 +69,13 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.125" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\A\Code\Java\Code\DesignPatternsDemo\lib" />
       <recent name="E:\A\Code\Java\Code\DesignPatternsDemo\src\top\liuergo\singleton" />
       <recent name="E:\A\Code\Java\Code\DesignPatternsDemo\src\singleton" />
     </key>
@@ -62,19 +88,7 @@
       <recent name="E:\A\Code\Java\Code\DesignPatternsDemo\src\top\liuergo\factory\veritable" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Tester (4)">
+  <component name="RunManager" selected="Application.Tester">
     <configuration name="Tester (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="top.liuergo.observer.pratical.Tester" />
       <module name="DesignPatternsDemo" />
@@ -128,8 +142,14 @@
       </method>
     </configuration>
     <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.liuergo.observer.simple.Tester" />
+      <option name="MAIN_CLASS_NAME" value="top.liuergo.adapter.Tester" />
       <module name="DesignPatternsDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.liuergo.adapter.computer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -140,9 +160,20 @@
         <item itemvalue="Application.Tester (3)" />
         <item itemvalue="Application.Tester (2)" />
         <item itemvalue="Application.Tester (1)" />
-        <item itemvalue="Application.Tester" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -165,7 +196,9 @@
       <workItem from="1574336049689" duration="463000" />
       <workItem from="1574341038366" duration="10534000" />
       <workItem from="1574404504728" duration="8143000" />
-      <workItem from="1574485954308" duration="744000" />
+      <workItem from="1574485954308" duration="1924000" />
+      <workItem from="1574514207864" duration="1266000" />
+      <workItem from="1575272527851" duration="985000" />
     </task>
     <servers />
   </component>
@@ -184,5 +217,23 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="599" y="43" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1575272838935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="43" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1575272838935" />
+    <state x="499" y="167" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1575272835404">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824@0.0.1536.824" timestamp="1575272835404" />
+    <state x="445" y="153" key="FileChooserDialogImpl" timestamp="1575273503241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="445" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575273503241" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1575273392889">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575273392889" />
   </component>
 </project>

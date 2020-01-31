@@ -8,5 +8,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="lombok-1.18.10" level="application" />
+    <orderEntry type="library" exported="" name="guava-28.1-jre" level="application" />
+    <orderEntry type="library" exported="" name="mysql-connector-java-8.0.17" level="project" />
   </component>
 </module>
