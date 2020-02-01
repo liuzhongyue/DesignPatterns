@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33241289-50ee-4f8c-b8af-a4cffc40e258" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/top/liuergo/adapter/SDAdapterTF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/liuergo/adapter/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/liuergo/adapter/computer/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/liuergo/adapter/computer/MacBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/liuergo/adapter/sd/SDCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/liuergo/adapter/sd/SDCardImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/liuergo/adapter/tf/TFCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/liuergo/adapter/tf/TFCardImplementation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatternsDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatternsDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsDemo/META-INF/DesignPatternsDemo.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/Pizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/PizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/PizzaStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/Tester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/pizza/BeijingBaconPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/pizza/BeijingBaconPizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/pizza/BeijingCheesePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/pizza/BeijingCheesePizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/pizza/ShanghaiBaconPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/pizza/ShanghaiBaconPizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/pizza/ShanghaiCheesePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/pizza/ShanghaiCheesePizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/store/BeijingPizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/store/BeijingPizzaStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/store/ShanghaiPizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternsDemo/top/liuergo/factory/veritable/store/ShanghaiPizzaStore.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,10 +37,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="E:/AndroidSDK" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/Desktop/mysql-connector-java-8.0.17.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -199,6 +181,7 @@
       <workItem from="1574485954308" duration="1924000" />
       <workItem from="1574514207864" duration="1266000" />
       <workItem from="1575272527851" duration="985000" />
+      <workItem from="1580550561351" duration="1308000" />
     </task>
     <servers />
   </component>
